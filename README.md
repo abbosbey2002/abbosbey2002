@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abbos Qudratov
-- 👀 I’m Javascript developer
-- 🌱 my skills React, React Native
+- 👀 I’m Javascript and php developer
+- 🌱 my skills React, React Native, backend php
 - 💞️ I’m looking job
 
 <!---
