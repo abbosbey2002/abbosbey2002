@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Abbos Qudratov
 
-I am a passionate developer with experience since 2022 in **Laravel**, **PHP**, **JavaScript**, **React**, and **WordPress**. I specialize in creating scalable web applications, building RESTful APIs, and optimizing databases like MySQL and PostgreSQL. I also have strong experience in **WordPress** theme and plugin development, delivering custom solutions tailored to client needs. I follow **SOLID principles** and take pride in writing clean, efficient, and maintainable code.
+I am a passionate developer with experience since 2022 in **Laravel**, **PHP**, **JavaScript**, **React**, **WordPress**, and **DevOps**. I specialize in creating scalable web applications, building RESTful APIs, and optimizing databases like MySQL and PostgreSQL. I also have strong experience in **WordPress** theme and plugin development, delivering custom solutions tailored to client needs. Additionally, I have worked with **Docker** to improve deployment processes and application scalability. I follow **SOLID principles** and take pride in writing clean, efficient, and maintainable code.
 
 ## 🛠 My Skills
 - **Frontend**: React, React Native, JavaScript
 - **Backend**: PHP, Laravel
 - **WordPress**: Custom theme development, plugin development, WooCommerce integration
+- **DevOps**: Docker, CI/CD pipelines, Deployment Automation
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker
 
@@ -14,7 +15,7 @@ I am a passionate developer with experience since 2022 in **Laravel**, **PHP**, 
 - Building more scalable and efficient backend services
 
 ## 💼 Looking for Job Opportunities
-I'm currently seeking opportunities as a **JavaScript**, **PHP**, or **WordPress** developer. Feel free to reach out if you have an interesting project or role!
+I'm currently seeking opportunities as a **JavaScript**, **PHP**, **WordPress**, or **DevOps** developer. Feel free to reach out if you have an interesting project or role!
 
 📫 **Contact me**:  
 - Email: abbosbeyqudratov@gmail.com  
